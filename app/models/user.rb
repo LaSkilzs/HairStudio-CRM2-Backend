@@ -10,6 +10,14 @@ class User < ApplicationRecord
  
   enum role: {admin: "admin", client: "client", owner: "owner", stylist: "stylist"}
 
+  validates :username, presence: true
+  validates :username, length: { minimum: 5 }
+  validates :username, uniqueness: true
+  validates :role, presence: true
+
+  validates :password_digest, presence: true
+  validates :password_digest, length: { minimum: 5}
+  validates :password_digest, uniqueness: true
 
   def appointments
     Appointment.select do |appointment|

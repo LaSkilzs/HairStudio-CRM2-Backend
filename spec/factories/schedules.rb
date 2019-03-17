@@ -8,6 +8,7 @@ FactoryBot.define do
     fri { "2019-03-16 18:31:54" }
     sat { "2019-03-16 18:31:54" }
     sun { "2019-03-16 18:31:54" }
-    salon { nil }
+    salon 
+    stylist
   end
 end

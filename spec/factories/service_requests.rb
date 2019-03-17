@@ -1,6 +1,6 @@
 FactoryBot.define do
   factory :service_request do
-    appointment { nil }
-    ServiceType { nil }
+    appointment 
+    service_type
   end
 end

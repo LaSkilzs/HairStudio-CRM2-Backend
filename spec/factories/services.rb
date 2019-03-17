@@ -1,7 +1,7 @@
 FactoryBot.define do
   factory :service do
     name { "MyString" }
-    salon { nil }
-    StylistInfo { nil }
+    salon 
+    stylist_info 
   end
 end
