@@ -33,6 +33,6 @@ class Api::V1::UsersController < ApplicationController
 
   private
   def user_params
-    params.require(:user).permit(:hairstyle, :date, :start, :duration, :status, :service_total)
+    params.permit(:username, :password, :role, :salon_id, :image)
   end
 end

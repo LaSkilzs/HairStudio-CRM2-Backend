@@ -6,7 +6,9 @@ class User < ApplicationRecord
   has_many :hair_cards
   has_many :hair_personalities, through: :hair_cards
   has_many :appointments
-  # has_many :appointments, :foreign_key => "stylist_id"
+  has_many :posts
+  has_many :comments
+  has_many :schedules, :foreign_key => 'stylist_id'
  
   enum role: {admin: "admin", client: "client", owner: "owner", stylist: "stylist"}
 
