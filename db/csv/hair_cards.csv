@@ -1,0 +1,41 @@
+primary_key,suffered_from_hair_loss,been_diagnosed_with_alopecia,take_any_medication,been_pregnant_in_the_last_6_months,suffer_from_psoriasis_to_the_scalp,suffer_from_ezcema_to_the_scalp,have_a_sensitive_scalp,any_known_allergies,which_ones,frequently_swim_or_go_to_the_gym,currently_have_colour_in_your_hair,which_method,last_time_colored,used_hair_extensions_before,which_type_did_you_use,have_a_perm_or_relaxer,last_time_you_had_a_relaxer,wash_frequency,hair_type,hair_is,length,user_id,stylist_id,hair_personality_id
+1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,nka,FALSE,TRUE,rinse,4 weeks ago,FALSE,unanswered,TRUE,last week,every 2 weeks,medium,curly,below_shoulder,1,2,5
+2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,peanut butter,FALSE,TRUE,rinse,2 weeks ago,TRUE,weave,TRUE,4 weeks ago,every 2 weeks,very_thick,wavy,above_shoulder,2,2,5
+3,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,eggs,FALSE,FALSE,none,unanswered,TRUE,sew in,TRUE,2 weeks ago,every month,thick,curly,below_shoulder,3,2,8
+4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,nka,TRUE,FALSE,none,unanswered,FALSE,unanswered,FALSE,unanswered,unanswered,medium,straight,below_shoulder,4,2,8
+5,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,nka,FALSE,TRUE,dye,3 weeks ago,FALSE,unanswered,FALSE,unanswered,unanswered,fine,fuzzy,above_shoulder,5,2,5
+6,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,shellfish,FALSE,FALSE,none,unanswered,TRUE,synthetic hair,FALSE,unanswered,unanswered,fine,straight,above_shoulder,6,2,1
+7,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,nka,FALSE,FALSE,none,unanswered,TRUE,natural hair,TRUE,last week,every week,medium,wavy,above_shoulder,7,1,7
+8,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,tree  nuts,TRUE,FALSE,none,unanswered,TRUE,weave,FALSE,unanswered,unanswered,very_thick,fuzzy,above_shoulder,8,2,7
+9,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,wheat,FALSE,TRUE,rinse,unanswered,FALSE,unanswered,FALSE,unanswered,unanswered,thick,curly,above_shoulder,9,1,8
+10,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,nka,FALSE,TRUE,dye,last week,FALSE,unanswered,FALSE,unanswered,unanswered,medium,wavy,above_shoulder,10,1,8
+11,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,nka,FALSE,TRUE,dye,a month ago,TRUE,sew in ,TRUE,3 weeks ago,every 3 weeks,thick,curly,above_shoulder,11,2,5
+12,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,nka,FALSE,TRUE,rinse,3 weeks ago,TRUE,sew in ,FALSE,unanswered,unanswered,medium,curly,above_shoulder,12,1,1
+13,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,soy,TRUE,FALSE,none,unanswered,FALSE,unanswered,TRUE,last week,every month,fine,straight,below_shoulder,13,2,2
+14,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,nka,TRUE,TRUE,rinse,unanswered,FALSE,unanswered,FALSE,unanswered,unanswered,medium,straight,below_shoulder,14,1,1
+15,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,nka,FALSE,FALSE,none,unanswered,FALSE,unanswered,TRUE,2 weeks ago,every week,medium,wavy,below_shoulder,15,2,4
+16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,nka,TRUE,TRUE,dye,last week,FALSE,unanswered,FALSE,unanswered,unanswered,medium,straight,above_shoulder,16,2,8
+17,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,nka,TRUE,FALSE,none,unanswered,TRUE,weave,FALSE,unanswered,unanswered,very_thick,curly,below_shoulder,17,1,1
+18,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,nka,FALSE,FALSE,none,unanswered,TRUE,sew in ,TRUE,4 weeks ago,every 3 weeks,very_thick,wavy,above_shoulder,18,2,4
+19,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,nka,FALSE,FALSE,none,unanswered,TRUE,natural hair,TRUE,3 weeks ago,every 2 weeks,very_thick,curly,below_shoulder,19,2,2
+20,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,eggs,TRUE,FALSE,none,unanswered,TRUE,natural hair,TRUE,last week,last week,very_thick,straight,above_shoulder,20,1,8
+21,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,peanut buttter,TRUE,TRUE,dye,3 weeks ago,TRUE,weave ,FALSE,unanswered,unanswered,very_thick,curly,below_shoulder,21,1,7
+22,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,nka,FALSE,TRUE,dye,last week,FALSE,unanswered,FALSE,unanswered,unanswered,very_thick,wavy,below_shoulder,22,2,1
+23,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,soy,TRUE,TRUE,dye,2 weeks ago,FALSE,unanswered,TRUE,a month ago,every 3 weeks,very_thick,straight,above_shoulder,23,2,3
+24,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,nka,TRUE,TRUE,dye,a month ago,TRUE,sew in,TRUE,6 weeks ago,last week,fine,curly,above_shoulder,24,1,2
+25,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,nka,FALSE,TRUE,dye,last week,FALSE,unanswered,FALSE,unanswered,unanswered,thick,wavy,below_shoulder,25,2,8
+26,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,nka,FALSE,TRUE,dye,2 weeks ago,FALSE,unanswered,TRUE,2 weeks ago,every 3 weeks,very_thick,fuzzy,above_shoulder,26,1,3
+27,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,wheat,TRUE,TRUE,dye,3 weeks ago,TRUE,sew in,TRUE,last week,every 2 weeks,fine,fuzzy,above_shoulder,27,1,8
+28,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,nka,TRUE,FALSE,none,unanswered,FALSE,unanswered,TRUE,a month ago,last week,medium,fuzzy,below_shoulder,28,1,4
+29,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,nka,FALSE,TRUE,rinse,last week,TRUE,natural hair,FALSE,unanswered,unanswered,medium,curly,below_shoulder,29,1,5
+30,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,fish,FALSE,FALSE,none,unanswered,FALSE,unanswered,FALSE,unanswered,unanswered,very_thick,wavy,below_shoulder,30,2,6
+31,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,shellfish,FALSE,TRUE,rinse,last week,TRUE,synthetic hair,FALSE,unanswered,unanswered,medium,wavy,below_shoulder,31,1,8
+32,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,eggs,TRUE,FALSE,none,unanswered,FALSE,unanswered,TRUE,2 weeks ago,every 3 weeks,medium,curly,above_shoulder,32,1,8
+33,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,nka,FALSE,TRUE,rinse,a month ago ,TRUE,sew in,FALSE,unanswered,unanswered,thick,curly,above_shoulder,33,1,8
+34,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,peanut butter,TRUE,TRUE,dye,a month ago ,FALSE,unanswered,FALSE,unanswered,unanswered,medium,wavy,above_shoulder,34,2,3
+35,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,eggs,FALSE,TRUE,dye,a month ago ,FALSE,unanswered,TRUE,2 weeks ago,last week,medium,straight,above_shoulder,35,2,8
+36,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,fish,FALSE,FALSE,none,unanswered,FALSE,unanswered,TRUE,last week,every 2 weeks,very_thick,curly,above_shoulder,36,2,6
+37,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,nka,TRUE,FALSE,none,unanswered,TRUE,wig,FALSE,unanswered,unanswered,thick,fuzzy,below_shoulder,37,1,4
+38,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,eggs,FALSE,TRUE,rinse,last week,FALSE,unanswered,TRUE,a month ago,every 2 weeks,fine,curly,below_shoulder,38,2,4
+39,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,peanut butter,FALSE,TRUE,rinse,2 weeks ago,FALSE,unanswered,FALSE,unanswered,unanswered,medium,fuzzy,below_shoulder,39,2,1
+40,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,nka,FALSE,FALSE,none,unanswered,TRUE,wig,FALSE,unanswered,unanswered,medium,wavy,below_shoulder,40,1,8

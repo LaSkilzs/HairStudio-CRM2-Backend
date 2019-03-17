@@ -1,0 +1,37 @@
+primary_key,name,price,duration,service_id
+1,deep conditioner,20.00,15,1
+2,hot oil scalp tx,55.00,15,1
+3,facial,35.00,45,2
+4,eyebrows,7.00,15,2
+5,weave  ,350.00,360,3
+6,braids ,100.00,360,3
+7,crochet braids ,250.00,360,3
+8,wig,250.00,360,3
+9,locs ,85.00,360,4
+10,locs retwist ,50.00,180,4
+11,corn rows,40.00,180,4
+12,natural braidstyles ,85.00,180,4
+13,touch up,40.00,60,5
+14,semi highlights ,55.00,60,5
+15,full highlights ,75.00,60,5
+16,permanent,150.00,60,5
+17,relaxer,125.00,60,5
+18,demi & semi color retouch ,20.00,60,5
+19,demi & semi color full ,30.00,60,5
+20,shampoo & style,55.00,90,6
+21,shampoo & cut,65.00,90,6
+22,"haircut, shampoo & basic style*",65.00,90,6
+23,"haircut, shampoo & full style* (curling/flat iron)",70.00,90,6
+24,braids  -- children (5 - 12),30.00,120,6
+25,shampoo  & style -- children (5 - 12),30.00,90,6
+26,hair extensions  -- children (5 - 12),60.00,120,6
+27,shape up,15.00,30,6
+28,updo,45.00,90,6
+29,trim ends,30.00,30,6
+30,hair treatment general,50.00,45,1
+31,facial services general,30.00,45,2
+32,hair extensions general,100.00,360,3
+33,natural hair general,70.00,240,4
+34,hair chemicals general,100.00,120,5
+35,hair style general,50.00,120,6
+36,beard trim,8.00,45,6

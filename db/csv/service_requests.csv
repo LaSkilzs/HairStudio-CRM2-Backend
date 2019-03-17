@@ -1,0 +1,402 @@
+primary_key,hairstyle,appointment_id,service_type_id
+1,Wrap,1,20
+2,Cut & Style,2,22
+3,Braids,3,6
+4,Wash & Style,4,20
+5,Updo,5,28
+6,Touch up,6,13
+7,Full Perm,7,16
+8,Facial,8,18
+9,Locs,9,9
+10,Weave,10,5
+11,Locs,11,9
+12,Wrap,12,21
+13,Braids,13,6
+14,Cut & Style,14,22
+15,Updo,15,28
+16,Wash & Style,16,20
+17,Facial,17,3
+18,Touch up,18,13
+19,Hair Extensions,19,7
+20,Full Perm,20,16
+21,Wrap,21,20
+22,Wrap,22,20
+23,Locs,23,9
+24,Updo,24,28
+25,Wash & Style,25,20
+26,Locs,26,9
+27,Full Perm,27,16
+28,Cut & Style,28,22
+29,Hair Extensions,29,6
+30,Wash & Style,30,20
+31,Cut & Style,31,23
+32,Cut & Style,32,22
+33,Touch up,33,13
+34,Cut & Style,34,22
+35,Full Perm,35,16
+36,Locs,36,9
+37,Wash & Style,37,20
+38,Facial,38,3
+39,Touch up,39,13
+40,Wrap,40,20
+41,Wrap,41,20
+42,Hair Extensions,42,5
+43,Hair Extensions,43,6
+44,Touch up,44,13
+45,Wash & Style,45,20
+46,Updo,46,28
+47,Full Perm,47,17
+48,Locs,48,9
+49,Facial,49,3
+50,Wash & Style,50,20
+51,Wash & Style,51,20
+52,Braids,52,6
+53,Cut & Style,53,23
+54,Hair Extensions,54,32
+55,Cut & Style,55,23
+56,Touch up,56,13
+57,Updo,57,28
+58,Braids,58,6
+59,Braids,59,6
+60,Wrap,60,20
+61,Updo,61,28
+62,Locs,62,9
+63,Wash & Style,63,20
+64,Facial,64,3
+65,Facial,65,3
+66,Locs,66,9
+67,Facial,67,3
+68,Full Perm,68,17
+69,Braids,69,6
+70,Locs,70,9
+71,Touch up,71,13
+72,Hair Extensions,72,5
+73,Braids,73,6
+74,Locs,74,10
+75,Cut & Style,75,23
+76,Wrap,76,20
+77,Full Perm,77,16
+78,Full Perm,78,17
+79,Braids,79,6
+80,Updo,80,28
+81,Updo,81,28
+82,Full Perm,82,17
+83,Braids,83,6
+84,Hair Extensions,84,7
+85,Cut & Style,85,23
+86,Wash & Style,86,20
+87,Cut & Style,87,23
+88,Facial,88,3
+89,Wash & Style,89,20
+90,Touch up,90,13
+91,Locs,91,9
+92,Facial,92,3
+93,Updo,93,28
+94,Updo,94,28
+95,Locs,95,10
+96,Braids,96,6
+97,Wash & Style,97,20
+98,Wash & Style,98,20
+99,Cut & Style,99,23
+100,Full Perm,100,17
+101,wig,101,8
+102,Wash & Style & Cut,102,23
+103,Hair Extensions,103,7
+104,Wrap,104,20
+105,Wash & Style,105,20
+106,Hair Extensions,106,5
+107,Full Perm,107,16
+108,Cut & Style,108,23
+109,Hair Extensions,109,7
+110,Cut & Style,110,23
+111,Updo,111,28
+112,Full Perm,112,17
+113,Full Perm,113,16
+114,Wash & Style,114,20
+115,wig,115,8
+116,Wrap,116,20
+117,Full Perm,117,17
+118,Full Perm,118,17
+119,Full Perm,119,16
+120,Updo,120,28
+121,Touch up,121,13
+122,Facial,122,3
+123,Facial,123,3
+124,Wash & Style,124,20
+125,Facial,125,3
+126,Full Perm,126,16
+127,Hair Extensions,127,8
+128,Cut & Style,128,23
+129,Wrap,129,20
+130,Wash & Style,130,20
+131,Updo,131,28
+132,Cut & Style,132,23
+133,Touch up,133,13
+134,Updo,134,28
+135,Touch up,135,13
+136,Hair Extensions,136,11
+137,Locs,137,9
+138,Full Perm,138,16
+139,Updo,139,28
+140,Braids,140,12
+141,Braids,141,11
+142,Cut & Style,142,23
+143,Updo,143,28
+144,Facial,144,3
+145,Wash & Style,145,20
+146,Facial,146,3
+147,Touch up,147,13
+148,Hair Extensions,148,8
+149,Touch up,149,13
+150,Locs,150,9
+151,Cut & Style,151,23
+152,Wash & Style,152,20
+153,Wash & Style,153,20
+154,Facial,154,3
+155,Full Perm,155,17
+156,Touch up,156,13
+157,Facial,157,17
+158,Facial,158,3
+159,Updo,159,28
+160,Updo,160,28
+161,Full Perm,161,17
+162,Facial,162,3
+163,Facial,163,3
+164,Wrap,164,20
+165,Facial,165,3
+166,Wash & Style,166,20
+167,Cut & Style,167,23
+168,Locs,168,10
+169,Full Perm,169,16
+170,Wrap,170,20
+171,Locs,171,10
+172,Wash & Style,172,20
+173,Locs,173,9
+174,Touch up,174,13
+175,Cut & Style,175,23
+176,Updo,176,29
+177,Full Perm,177,17
+178,Wash & Style,178,20
+179,Locs,179,10
+180,Updo,180,28
+181,Cut & Style,181,23
+182,Wash & Style,182,20
+183,Braids,183,12
+184,Hair Extensions,184,6
+185,Full Perm,185,16
+186,Touch up,186,13
+187,Facial,187,3
+188,Full Perm,188,17
+189,Cut & Style,189,23
+190,Wrap,190,20
+191,Braids,191,11
+192,Braids,192,12
+193,Braids,193,12
+194,Locs,194,9
+195,Locs,195,10
+196,Updo,196,28
+197,Updo,197,28
+198,Braids,198,11
+199,Cut & Style,199,23
+200,Wash & Style,200,20
+201,Facial,201,3
+202,Braids,202,12
+203,Braids,203,12
+204,deep conditioner,1,1
+205,hot oil scalp tx,2,2
+206,trim ends,3,29
+207,shape up,4,27
+208,facial,5,3
+209,full highlights,6,15
+210,semi,7,19
+211,demi,8,3
+212,eyebrows,9,4
+213,eyebrows,10,4
+214,deep conditioner,11,1
+215,shape up,12,27
+216,semi,13,18
+217,trim ends,14,29
+218,highlights,15,14
+219,demi,16,18
+220,hot oil scalp tx,17,2
+221,facial,18,3
+222,hot oil scalp tx,19,2
+223,shape up,20,27
+224,hot oil scalp tx,21,2
+225,demi,22,19
+226,eyebrows,23,4
+227,trim ends,24,29
+228,trim ends,25,29
+229,highlights,26,15
+230,highlights,27,15
+231,trim ends,28,29
+232,facial,29,3
+233,hot oil scalp tx,30,2
+234,trim ends,31,29
+235,eyebrows,32,4
+236,trim ends,33,3
+237,semi,34,18
+238,hot oil scalp tx,35,2
+239,hot oil scalp tx,36,2
+240,shape up,37,27
+241,deep conditioner,38,1
+242,deep conditioner,39,1
+243,semi,40,19
+244,deep conditioner,41,1
+245,shape up,42,27
+246,demi,43,18
+247,eyebrows,44,4
+248,shape up,45,27
+249,shape up,46,27
+250,eyebrows,47,4
+251,highlights,48,15
+252,facial,49,3
+253,highlights,50,15
+254,facial,51,3
+255,hot oil scalp tx,52,2
+256,hot oil scalp tx,53,2
+257,deep conditioner,54,1
+258,highlights,55,14
+259,demi,56,18
+260,shape up,57,27
+261,eyebrows,58,4
+262,eyebrows,59,4
+263,trim ends,60,29
+264,highlights,61,14
+265,deep conditioner,62,1
+266,eyebrows,63,4
+267,facial,64,3
+268,deep conditioner,65,1
+269,highlights,66,15
+270,hot oil scalp tx,67,2
+271,highlights,68,14
+272,semi,69,19
+273,hot oil scalp tx,70,2
+274,eyebrows,71,4
+275,highlights,72,15
+276,trim ends,73,29
+277,deep conditioner,74,1
+278,trim ends,75,29
+279,shape up,76,27
+280,shape up,77,27
+281,shape up,78,27
+282,trim ends,79,29
+283,semi,80,18
+284,eyebrows,81,4
+285,shape up,82,27
+286,semi,83,19
+287,eyebrows,84,4
+288,facial,85,3
+289,eyebrows,86,4
+290,deep conditioner,87,1
+291,trim ends,88,29
+292,trim ends,89,29
+293,eyebrows,90,4
+294,facial,91,3
+295,facial,92,3
+296,eyebrows,93,4
+297,eyebrows,94,4
+298,highlights,95,14
+299,hot oil scalp tx,96,2
+300,facial,97,3
+301,shape up,98,27
+302,demi,99,18
+303,facial,100,3
+304,highlights,103,15
+305,trim ends,104,29
+306,demi,105,19
+307,deep conditioner,106,1
+308,eyebrows,107,4
+309,facial,108,15
+310,demi,109,19
+311,highlights,110,14
+312,shape up,111,15
+313,shape up,112,29
+314,shape up,113,29
+315,deep conditioner,114,1
+316,hot oil scalp tx,116,2
+317,semi,117,19
+318,eyebrows,118,4
+319,semi,119,18
+320,demi,120,19
+321,eyebrows,121,4
+322,highlights,122,15
+323,deep conditioner,124,1
+324,shape up,125,27
+325,semi,126,19
+326,facial,127,3
+327,trim ends,128,29
+328,semi,129,18
+329,highlights,130,15
+330,facial,131,3
+331,shape up,132,27
+332,trim ends,133,29
+333,deep conditioner,134,1
+334,demi,135,29
+335,trim ends,136,18
+336,trim ends,137,29
+337,semi,138,18
+338,trim ends,139,29
+339,deep conditioner,140,1
+340,demi,141,18
+341,facial,142,3
+342,hot oil scalp tx,143,2
+343,eyebrows,144,4
+344,demi,145,18
+345,demi,146,18
+346,trim ends,147,29
+347,eyebrows,148,4
+348,eyebrows,149,4
+349,eyebrows,150,4
+350,hot oil scalp tx,152,2
+351,highlights,153,14
+352,eyebrows,154,4
+353,semi,155,18
+354,eyebrows,156,4
+355,deep conditioner,157,18
+356,hot oil scalp tx,158,2
+357,eyebrows,159,4
+358,demi,160,14
+359,trim ends,161,29
+360,trim ends,162,29
+361,deep conditioner,163,1
+362,hot oil scalp tx,164,2
+363,shape up,165,27
+364,eyebrows,166,4
+365,shape up,167,2
+366,demi,168,3
+367,facial,169,3
+368,trim ends,170,18
+369,facial,171,14
+370,facial,172,2
+371,demi,173,3
+372,highlights,174,29
+373,hot oil scalp tx,175,1
+374,facial,176,4
+375,trim ends,177,29
+376,deep conditioner,178,1
+377,eyebrows,179,4
+378,shape up,180,27
+379,shape up,181,27
+380,trim ends,182,29
+381,facial,183,3
+382,deep conditioner,184,1
+383,highlights,185,15
+384,shape up,186,27
+385,semi,187,18
+386,demi,188,19
+387,facial,189,3
+388,trim ends,190,29
+389,semi,191,19
+390,demi,192,18
+391,semi,193,18
+392,facial,194,3
+393,semi,195,18
+394,facial,196,3
+395,demi,197,19
+396,shape up,198,27
+397,eyebrows,199,4
+398,hot oil scalp tx,200,2
+399,trim ends,201,29
+400,hot oil scalp tx,202,3
+401,highlights,203,15

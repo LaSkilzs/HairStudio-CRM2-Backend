@@ -1,0 +1,41 @@
+primary_key,first_name,last_name,birthday,email,home,mobile,street_1,street_2,city,state,zip,user_id
+1,Shear,Elegance,"January 1, 1995",shear@example.com,(908)786-9876,(862)987-0989,435 Chatham,,Plainfield,NJ,07076,1
+2,Marcia,Williams,"June 14, 1979",Marcia@example.com,(788) 210-8691,(460) 902-6229,9651 Liberty Ave. ,,Scotch Plains,NJ,07076,2
+3,Monica,Johnson,"May 19, 1983",Monica@example.com,(317) 283-4527,(399) 829-6833,7849 Meadow St.,1st Floor,Plainfield,NJ,07060,3
+4,Alana,Smith,"December 10, 1985",Alana@example.com,(829) 658-9345,(886) 535-0053,19 College Avenue,apt. 3F,Plainfield,NJ,07061,4
+5,Stepanie,Jones,"March 28, 1988",Stepanie@example.com,(443) 371-5937,(542) 541-1082,595 Strawberry Ave,2nd Floor,Plainfield,NJ,07062,5
+6,Aubrey,Brown,"September 22, 1942",Aubrey@example.com,(686) 217-5401,(340) 669-2666,9898 Adams Street,apt. 3G,Plainfield,NJ,07063,6
+7,Alicia,Davis,"June 30, 1943",Alicia@example.com,(494) 262-4613,(593) 968-3002,861 Poplar Lane,apt. 4L,Vauxhall,NJ,07088,7
+8,Daisy,Thomas,"March 23, 1960",Daisy@example.com,(403) 291-0649,(884) 210-0103,7923 Henry Rd,1st Floor,Vauxhall,NJ,07088,8
+9,Jessica,Harris,"November 5, 1969",Jessica@example.com,(481) 799-5760,(966) 270-3782,8795 Fair Drive,apt. 6A,Vauxhall,NJ,07088,9
+10,Antoinette,Robinson,"July 4, 1974",Antoinette@example.com,(417) 658-7337,(860) 793-9009,392 Windsor Street,2nd Floor,Vauxhall,NJ,07088,10
+11,Deborah,Wilson,"October 26, 1974",Deborah@example.com,(371) 510-4108,(948) 998-4061,745 Lake View Street ,apt. 8B,Elizabeth,NJ,07208,11
+12,Jacqueline,Taylor,"March 31, 1975",Jacqueline@example.com,(832) 430-7503,(951) 398-0088,7459 Catherine Drive Port Elizabeth,apt. 9G,Elizabeth,NJ,07209,12
+13,Lashonda,Moore,"April 20, 1982",Lashonda@example.com,(395) 845-2548,(369) 954-4543,86 Old St. ,apt. 19H,Elizabeth,NJ,07210,13
+14,Monika,White,"January 24, 1985",Monika@example.com,(845) 397-6330,(283) 688-1228,9651 Stone Rd,1st Floor,Elizabeth,NJ,07211,14
+15,Jasmin,Lewis,"November 12, 1986",Jasmin@example.com,(217) 286-7486,(700) 809-5143,243 Edgefield Street,apt. 12F,Elizabeth,NJ,07212,15
+16,Pamela,Walker,"March 19, 1989",Pamela@example.com,(759) 948-7467,(507) 484-7057,58 Trusel Ave,apt. 11J,Elizabeth,NJ,07213,16
+17,Destiny,Green,"March 17, 1993",Destiny@example.com,(615) 648-8362,(326) 907-8492,70 Border Lane,apt. 14E,Elizabeth,NJ,07214,17
+18,LaTrice,Thompson,"March 31, 1996",LaTrice@example.com,(514) 832-8104,(694) 855-3958,7904 Valley Street,2nd Floor,Plainfield,NJ,07060,18
+19,Fatima,Washington,"July 23, 1997",Fatima@example.com,(646) 818-0368,(413) 591-6388,44 Senna Lane,apt. 6F,Plainfield,NJ,07061,19
+20,Katrina,Anderson,"September 20, 1998",Katrina@example.com,(294) 681-8597,(796) 843-8426,177 Railroad Rd.,apt. 17B,Plainfield,NJ,07062,20
+21,Aretha,Scott,"August 16, 2003",Aretha@example.com,(284) 408-8591,(470) 688-5089,9683 Pearl Court,1st Floor,Plainfield,NJ,07063,21
+22,Catherine,Carter,"December 31, 1990",Catherine@example.com,(266) 559-2248,(942) 858-0331,94 Vermont Road ,apt. 19D,Plainfield,NJ,07060,22
+23,Stacey,Wright,"October 5, 1991",Stacey@example.com,(390) 673-8346,(491) 556-2910,9 Pendergast Lane,,Plainfield,NJ,07061,23
+24,Roxann,Hill,"June 2, 1995",Roxann@example.com,(548) 547-2140,(305) 820-2873,719 S. Meadow Rd,apt. 21F,Plainfield,NJ,07062,24
+25,Helen,Allen,"May 18, 1997",Helen@example.com,(910) 846-3846,(917) 322-6292,41 S. Brown St,2nd Floor,Plainfield,NJ,07063,25
+26,Melissa,Miller,"August 7, 1999",Melissa@example.com,(543) 470-9233,(635) 800-7666,857 Fulton Ave. ,apt. 23,Plainfield,NJ,07060,26
+27,Juliet,Mitchell,"September 1, 2001",Juliet@example.com,(351) 529-1180,(495) 853-7570,241 Purple Finch St,apt. 7E,Plainfield,NJ,07061,27
+28,Wanda,Young,"November 28, 2002",Wanda@example.com,(881) 205-0474,(431) 633-1062,690 High Ridge Ave.,1st Floor,Plainfield,NJ,07062,28
+29,Ruth,Martin,"August 22, 2003",Ruth@example.com,(565) 697-9030,(894) 335-6559,460 Indian Summer Road,apt. 54K,Plainfield,NJ,07063,29
+30,Terrance,Lee,"January 11, 2004",Terrance@example.com,(282) 925-5174,(676) 826-1719,948 Saxon Lane,apt. 27L,Plainfield,NJ,07060,30
+31,Michael,Clark,"November 9, 2004",Michael@example.com,(414) 416-7603,(818) 374-8203,3 Fairfield Street,apt. 28A,Plainfield,NJ,07061,31
+32,Vanessa,King,"October 20, 2005",Vanessa@example.com,(633) 497-0531,(618) 641-6200,74 Front Ave.,,Plainfield,NJ,07062,32
+33,Corey,Edwards,"November 14, 2006",Corey@example.com,(605) 281-3361,(405) 293-8092,711 St Margarets Street,2nd Floor,Plainfield,NJ,07063,33
+34,Sharonda,Turner,"August 4, 2007",Sharonda@example.com,(736) 657-6417,(526) 796-1879,526 E. Arrowhead St.,apt. 31R,Plainfield,NJ,07060,34
+35,Tyra,James,"February 21, 2009",Tyra@example.com,(294) 761-7508,(978) 349-6945,5 Snowflake St.,apt. 2B,Plainfield,NJ,07061,35
+36,Ivory,Boyd,"June 2, 2009",Ivory@example.com,(990) 705-2198,(844) 937-8527,420 East Vista Road ,apt. 33F,Plainfield,NJ,07062,36
+37,Aisa,Gordon,"March 5, 2010",Aisa@example.com,(694) 418-8576,(662) 428-8901,62 North Amerige Dr.,apt. 34C,Plainfield,NJ,07063,37
+38,Keisha,Franklin,"May 13, 2010",Keisha@example.com,(828) 324-9728,(671) 482-7734,224 Thatcher Rd.,apt. 15G,Plainfield,NJ,07060,38
+39,Meagan,Hawkins,"August 31, 2010",Meagan@example.com,(741) 498-8269,(986) 216-6666,944 Wild Horse Avenue,1st Floor,Plainfield,NJ,07061,39
+40,LaTasha,Sims,"December 20, 2010",LaTasha@example.com,(678) 760-6091,(732) 216-8169,878 E. Fletcher Ave. ,2nd Floor,Plainfield,NJ,07062,40

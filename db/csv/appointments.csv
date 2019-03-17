@@ -1,0 +1,204 @@
+primary_key,date,hairstyle,start,duration,status,service_total,user_id,stylist_id
+1,"March 1, 2019",Wrap,9:00,90,completed,75.00,11,1
+2,"March 1, 2019",Cut & Style,10:30,90,completed,120.00,14,2
+3,"March 1, 2019",Braids,13:00,180,completed,130.00,34,2
+4,"March 2, 2019",Wash & Style,9:00,90,completed,70.00,10,1
+5,"March 2, 2019",Updo,10:00,90,completed,80.00,9,1
+6,"March 2, 2019",Touch up,12:00,90,completed,115.00,7,2
+7,"March 2, 2019",Full Perm,10:30,120,completed,275.00,36,1
+8,"March 5, 2019",Facial,11:30,45,completed,180.00,10,1
+9,"March 5, 2019",Locs,9:00,180,completed,285.00,28,1
+10,"March 7, 2019",Weave,11:30,180,completed,42.00,21,2
+11,"March 7, 2019",Locs,12:00,180,completed,105.00,39,2
+12,"March 8, 2019",Wrap,12:30,90,cancelled,90.00,12,2
+13,"March 8, 2019",Braids,13:00,180,confirmed,120.00,36,1
+14,"March 9, 2019",Cut & Style,9:30,90,pending,95.00,23,2
+15,"March 9, 2019",Updo,11:00,90,pending,100.00,28,1
+16,"March 12, 2019",Wash & Style,16:00,90,cancelled,75.00,11,2
+17,"March 12, 2019",Facial,18:30,45,cancelled,90.00,20,2
+18,"March 12, 2019",Touch up,19:30,90,confirmed,75.00,31,1
+19,"March 12, 2019",Hair Extensions,9:30,240,pending,305.00,33,2
+20,"March 13, 2019",Full Perm,13:30,90,cancelled,165.00,7,1
+21,"March 13, 2019",Wrap,14:30,90,confirmed,110.00,31,2
+22,"March 13, 2019",Wrap,16:00,90,cancelled,85.00,20,1
+23,"March 14, 2019",Locs,14:00,240,cancelled,92.00,35,1
+24,"March 14, 2019",Updo,15:00,90,confirmed,75.00,33,2
+25,"March 15, 2019",Wash & Style,15:30,90,pending,85.00,19,2
+26,"March 15, 2019",Locs,17:30,240,confirmed,160.00,5,2
+27,"March 16, 2019",Full Perm,10:00,90,confirmed,225.00,14,2
+28,"March 17, 2019",Cut & Style,12:30,90,confirmed,95.00,25,2
+29,"March 17, 2019",Hair Extensions,15:00,240,cancelled,135.00,16,1
+30,"March 18, 2019",Wash & Style,9:00,90,cancelled,110.00,24,1
+31,"March 18, 2019",Cut & Style,9:30,90,cancelled,100.00,21,2
+32,"March 18, 2019",Cut & Style,10:30,90,cancelled,130.00,28,1
+33,"March 18, 2019",Touch up,12:00,90,cancelled,100.00,30,2
+34,"March 18, 2019",Cut & Style,15:00,90,pending,85.00,35,2
+35,"March 21, 2019",Full Perm,9:00,90,pending,205.00,38,2
+36,"March 21, 2019",Locs,10:00,240,confirmed,140.00,27,1
+37,"March 22, 2019",Wash & Style,11:00,90,pending,70.00,10,1
+38,"March 22, 2019",Facial,12:30,45,pending,55.00,13,2
+39,"March 22, 2019",Touch up,1:30,90,pending,60.00,8,2
+40,"March 22, 2019",Wrap,2:00,90,cancelled,85.00,28,1
+41,"March 23, 2019",Wrap,10:30,90,pending,75.00,7,2
+42,"March 23, 2019",Hair Extensions,9:00,240,confirmed,365.00,19,1
+43,"March 26, 2019",Hair Extensions,9:30,240,confirmed,140.00,22,2
+44,"March 26, 2019",Touch up,14:00,90,confirmed,47.00,34,1
+45,"March 26, 2019",Wash & Style,15:00,90,pending,70.00,9,2
+46,"March 28, 2019",Updo,2:30,90,pending,60.00,14,2
+47,"March 28, 2019",Full Perm,3:00,90,confirmed,82.00,10,1
+48,"March 28, 2019",Locs,3:30,240,pending,160.00,13,1
+49,"March 30, 2019",Facial,11:30,90,pending,70.00,16,1
+50,"March 30, 2019",Wash & Style,12:30,90,pending,130.00,34,2
+51,"March 30, 2019",Wash & Style,14:00,90,pending,90.00,35,2
+52,"March 30, 2019",Braids,10:30,240,cancelled,155.00,17,2
+53,"April 2, 2019",Cut & Style,12:30,90,cancelled,125.00,6,2
+54,"April 2, 2019",Hair Extensions,14:00,240,confirmed,120.00,37,2
+55,"April 2, 2019",Cut & Style,13:30,90,cancelled,125.00,9,1
+56,"April 4, 2019",Touch up,9:00,90,confirmed,60.00,14,2
+57,"April 5, 2019",Updo,9:30,90,confirmed,60.00,37,2
+58,"April 6, 2019",Braids,18:00,240,pending,357.00,27,1
+59,"April 6, 2019",Braids,12:30,5,confirmed,107.00,33,2
+60,"April 6, 2019",Wrap,11:00,90,confirmed,85.00,35,1
+61,"April 9, 2019",Updo,10:00,90,cancelled,100.00,15,2
+62,"April 10, 2019",Locs,12:00,90,pending,105.00,32,2
+63,"April 11, 2019",Wash & Style,10:00,90,cancelled,62.00,11,2
+64,"April 11, 2019",Facial,10:30,45,pending,70.00,13,2
+65,"April 12, 2019",Facial,12:30,45,pending,55.00,27,1
+66,"April 13, 2019",Locs,15:30,240,confirmed,160.00,15,1
+67,"April 13, 2019",Facial,18:00,45,confirmed,90.00,17,1
+68,"April 16, 2019",Full Perm,15:00,90,pending,200.00,36,2
+69,"April 16, 2019",Braids,12:00,240,cancelled,120.00,39,1
+70,"April 18, 2019",Locs,1:30,240,pending,305.00,24,1
+71,"April 18, 2019",Touch up,2:30,90,cancelled,47.00,33,2
+72,"April 18, 2019",Hair Extensions,3:30,240,cancelled,135.00,5,2
+73,"April 19, 2019",Braids,4:40,5,pending,130.00,25,1
+74,"April 19, 2019",Locs,5:00,6,confirmed,270.00,28,2
+75,"April 19, 2019",Cut & Style,9:00,90,pending,100.00,23,2
+76,"April 20, 2019",Wrap,15:00,90,confirmed,70.00,12,1
+77,"April 20, 2019",Full Perm,13:00,90,confirmed,165.00,15,2
+78,"April 20, 2019",Full Perm,10:00,90,pending,140.00,15,1
+79,"April 24, 2019",Braids,17:00,240,confirmed,130.00,18,2
+80,"April 25, 2019",Updo,10:00,90,cancelled,65.00,31,1
+81,"April 26, 2019",Updo,10:30,90,pending,52.00,8,1
+82,"April 27, 2019",Full Perm,9:00,90,pending,140.00,38,1
+83,"April 27, 2019",Braids,11:30,240,cancelled,130.00,8,1
+84,"April 27, 2019",Hair Extensions,13:30,240,pending,257.00,39,1
+85,"April 27, 2019",Cut & Style,12:00,90,confirmed,105.00,30,1
+86,"April 30, 2019",Wash & Style,9:30,90,cancelled,62.00,5,2
+87,"April 30, 2019",Cut & Style,12:30,90,confirmed,90.00,5,1
+88,"May 2, 2019",Facial,12:00,90,confirmed,65.00,12,2
+89,"May 2, 2019",Wash & Style,2:30,90,pending,85.00,29,2
+90,"May 4, 2019",Touch up,10:30,90,cancelled,47.00,26,1
+91,"May 7, 2019",Locs,11:00,240,pending,120.00,8,1
+92,"May 7, 2019",Facial,13:30,45,cancelled,70.00,7,2
+93,"May 9, 2019",Updo,15:00,45,cancelled,52.00,22,1
+94,"May 9, 2019",Updo,16:00,45,pending,52.00,27,1
+95,"May 10, 2019",Locs,16:30,0,confirmed,105.00,32,1
+96,"May 10, 2019",Braids,17:00,240,cancelled,155.00,19,1
+97,"May 10, 2019",Wash & Style,18:00,90,cancelled,90.00,35,1
+98,"May 11, 2019",Wash & Style,12:00,90,cancelled,70.00,22,1
+99,"May 11, 2019",Cut & Style,10:30,90,cancelled,90.00,30,2
+100,"May 11, 2019",Full Perm,11:30,90,pending,160.00,19,1
+101,"May 14, 2019",wig,14:00,240,cancelled,250.00,19,1
+102,"May 16, 2019",Wash & Style & Cut,10:00,90,confirmed,70.00,33,1
+103,"May 16, 2019",Hair Extensions,10:30,240,cancelled,325.00,16,2
+104,"May 17, 2019",Wrap,11:30,90,pending,85.00,13,1
+105,"May 18, 2019",Wash & Style,9:30,90,confirmed,85.00,26,1
+106,"May 18, 2019",Hair Extensions,16:30,240,pending,370.00,13,2
+107,"May 21, 2019",Full Perm,18:00,90,cancelled,157.00,36,1
+108,"May 20, 2019",Cut & Style,17:00,90,pending,145.00,12,1
+109,"May 25, 2019",Hair Extensions,20:00,240,pending,280.00,29,2
+110,"May 25, 2019",Cut & Style,9:00,90,cancelled,125.00,22,2
+111,"May 25, 2019",Updo,10:30,90,cancelled,120.00,27,2
+112,"May 25, 2019",Full Perm,12:30,90,pending,155.00,26,1
+113,"May 28, 2019",Full Perm,11:30,90,cancelled,180.00,17,2
+114,"May 29, 2019",Wash & Style,13:00,90,confirmed,75.00,33,2
+115,"May 30, 2019",wig,12:00,240,confirmed,250.00,31,2
+116,"May 31, 2019",Wrap,3:00,90,confirmed,110.00,8,1
+117,"May 31, 2019",Full Perm,4:00,90,cancelled,155.00,37,1
+118,"May 31, 2019",Full Perm,4:30,90,confirmed,132.00,15,1
+119,"March 2, 2019",Full Perm,11:30,90,completed,170.00,10,1
+120,"March 2, 2019",Updo,13:00,90,completed,75.00,12,2
+121,"March 5, 2019",Touch up,14:00,90,completed,47.00,12,1
+122,"March 5, 2019",Facial,14:30,45,completed,110.00,23,1
+123,"March 6, 2019",Facial,5:00,45,completed,35.00,8,1
+124,"March 6, 2019",Wash & Style,5:30,90,completed,75.00,29,2
+125,"March 8, 2019",Facial,9:30,45,pending,50.00,35,2
+126,"March 9, 2019",Full Perm,13:00,90,cancelled,180.00,22,1
+127,"March 9, 2019",Hair Extensions,14:00,240,confirmed,285.00,24,1
+128,"March 12, 2019",Cut & Style,16:30,90,cancelled,100.00,11,2
+129,"March 14, 2019",Wrap,9:00,90,cancelled,75.00,30,1
+130,"March 14, 2019",Wash & Style,10:30,90,cancelled,130.00,34,2
+131,"March 14, 2019",Updo,11:00,90,pending,80.00,37,1
+132,"March 14, 2019",Cut & Style,11:30,90,pending,85.00,26,2
+133,"March 15, 2019",Touch up,16:30,90,cancelled,70.00,35,2
+134,"March 16, 2019",Updo,19:30,90,pending,65.00,16,2
+135,"March 20, 2019",Touch up,12:00,90,confirmed,70.00,8,1
+136,"March 20, 2019",Hair Extensions,2:00,240,cancelled,60.00,29,2
+137,"March 20, 2019",Locs,2:30,240,confirmed,115.00,29,1
+138,"March 21, 2019",Full Perm,3:00,90,confirmed,170.00,12,1
+139,"March 21, 2019",Updo,4:00,90,pending,75.00,6,2
+140,"March 23, 2019",Braids,13:30,240,pending,105.00,31,2
+141,"March 23, 2019",Braids,11:30,240,cancelled,60.00,9,2
+142,"March 23, 2019",Cut & Style,14:00,90,pending,105.00,36,2
+143,"March 27, 2019",Updo,5:00,90,cancelled,65.00,17,2
+144,"March 27, 2019",Facial,9:00,45,pending,90.00,33,1
+145,"March 27, 2019",Wash & Style,9:30,90,pending,75.00,37,2
+146,"March 28, 2019",Facial,11:30,45,pending,55.00,17,2
+147,"April 3, 2019",Touch up,11:00,90,pending,70.00,24,2
+148,"April 3, 2019",Hair Extensions,9:00,240,cancelled,257.00,25,1
+149,"April 3, 2019",Touch up,15:00,90,confirmed,47.00,36,1
+150,"April 3, 2019",Locs,17:00,240,confirmed,92.00,20,1
+151,"April 4, 2019",Cut & Style,12:30,90,cancelled,65.00,21,1
+152,"April 5, 2019",Wash & Style,1:00,90,cancelled,110.00,38,1
+153,"April 6, 2019",Wash & Style,18:30,90,confirmed,110.00,27,1
+154,"April 9, 2019",Facial,17:30,45,pending,42.00,31,2
+155,"April 9, 2019",Full Perm,13:30,90,confirmed,145.00,39,1
+156,"April 10, 2019",Touch up,10:00,90,cancelled,47.00,21,2
+157,"April 10, 2019",Facial,13:00,45,confirmed,145.00,36,1
+158,"April 12, 2019",Facial,1:30,45,confirmed,90.00,14,2
+159,"April 12, 2019",Updo,3:00,90,pending,52.00,15,1
+160,"April 13, 2019",Updo,10:00,90,pending,100.00,33,2
+161,"April 19, 2019",Full Perm,4:30,90,cancelled,155.00,38,2
+162,"April 19, 2019",Facial,5:00,45,cancelled,65.00,25,2
+163,"April 19, 2019",Facial,6:00,45,confirmed,55.00,6,2
+164,"April 20, 2019",Wrap,12:00,90,cancelled,110.00,20,2
+165,"April 20, 2019",Facial,10:30,45,pending,50.00,28,1
+166,"April 23, 2019",Wash & Style,18:30,90,confirmed,62.00,25,1
+167,"April 27, 2019",Cut & Style,9:30,90,confirmed,125.00,16,1
+168,"April 27, 2019",Locs,10:00,240,confirmed,85.00,16,1
+169,"April 27, 2019",Full Perm,14:30,90,cancelled,185.00,35,2
+170,"April 30, 2019",Wrap,17:00,90,confirmed,75.00,6,2
+171,"May 1, 2019",Locs,13:00,240,confirmed,105.00,15,2
+172,"May 1, 2019",Wash & Style,14:30,90,confirmed,110.00,11,1
+173,"May 1, 2019",Locs,16:00,240,confirmed,120.00,17,2
+174,"May 2, 2019",Touch up,9:30,90,pending,70.00,20,1
+175,"May 2, 2019",Cut & Style,10:30,90,cancelled,90.00,8,1
+176,"May 3, 2019",Updo,18:30,90,confirmed,37.00,24,2
+177,"May 4, 2019",Full Perm,10:30,90,pending,155.00,24,1
+178,"May 4, 2019",Wash & Style,10:00,90,confirmed,75.00,32,1
+179,"May 4, 2019",Locs,11:30,240,cancelled,57.00,21,1
+180,"May 7, 2019",Updo,16:30,90,confirmed,60.00,15,2
+181,"May 8, 2019",Cut & Style,16:00,90,cancelled,85.00,38,1
+182,"May 8, 2019",Wash & Style,11:30,90,pending,85.00,16,1
+183,"May 10, 2019",Braids,13:00,240,pending,120.00,22,1
+184,"May 14, 2019",Hair Extensions,10:00,240,confirmed,120.00,7,2
+185,"May 15, 2019",Full Perm,12:00,90,cancelled,225.00,33,2
+186,"May 15, 2019",Touch up,12:30,90,confirmed,55.00,20,2
+187,"May 16, 2019",Facial,13:00,45,pending,55.00,37,2
+188,"May 16, 2019",Full Perm,14:30,90,confirmed,170.00,15,2
+189,"May 17, 2019",Cut & Style,18:00,90,confirmed,105.00,36,1
+190,"May 17, 2019",Wrap,10:30,90,cancelled,85.00,31,2
+191,"May 17, 2019",Braids,12:00,240,confirmed,70.00,39,1
+192,"May 18, 2019",Braids,14:30,240,confirmed,105.00,23,2
+193,"May 21, 2019",Braids,11:00,240,cancelled,105.00,8,1
+194,"May 22, 2019",Locs,4:00,240,cancelled,120.00,22,2
+195,"May 23, 2019",Locs,5:00,240,confirmed,70.00,25,1
+196,"May 23, 2019",Updo,9:00,90,pending,80.00,5,2
+197,"May 23, 2019",Updo,10:00,90,pending,75.00,23,2
+198,"May 24, 2019",Braids,15:30,240,pending,55.00,18,2
+199,"May 24, 2019",Cut & Style,10:00,90,cancelled,77.00,5,1
+200,"May 25, 2019",Wash & Style,14:30,90,pending,110.00,16,1
+201,"May 28, 2019",Facial,15:30,45,cancelled,65.00,18,2
+202,"May 29, 2019",Braids,11:30,240,confirmed,120.00,37,2
+203,"May 30, 2019",Braids,12:30,240,pending,160.00,21,2
