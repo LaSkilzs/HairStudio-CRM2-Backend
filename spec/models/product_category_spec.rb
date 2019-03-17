@@ -1,5 +1,10 @@
 require 'rails_helper'
 
 RSpec.describe ProductCategory, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+  context 'product_category validations' do 
+    it 'test for a valid factory' do
+      expect(FactoryBot.build :product_category).to be_valid
+    end
+  
+    end
 end

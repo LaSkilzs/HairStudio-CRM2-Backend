@@ -1,9 +1,9 @@
 FactoryBot.define do
-  factory :user do
+  factory :user, aliases: [:stylist] do
     username { "MyString" }
     password_digest { "MyString" }
-    role { "MyString" }
+    role { "client" }
     image { "MyString" }
-    salon { nil }
+    salon 
   end
 end

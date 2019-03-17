@@ -1,5 +1,12 @@
 require 'rails_helper'
 
+
 RSpec.describe ServiceProduct, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+  context 'service request validations' do 
+    it 'test for a valid factory' do
+      expect(FactoryBot.build :service_product).to be_valid
+    end
+    
+    
+  end
 end

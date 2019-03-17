@@ -7,6 +7,6 @@ FactoryBot.define do
     renewal { "2019-03-16 18:37:16" }
     about_summary { "MyText" }
     webpic { "MyString" }
-    user_id { 1 }
+    stylist
   end
 end

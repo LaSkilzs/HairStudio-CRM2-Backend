@@ -1,5 +1,12 @@
 require 'rails_helper'
 
+
 RSpec.describe Schedule, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+  context 'service request validations' do 
+    it 'test for a valid factory' do
+      expect(FactoryBot.build :schedule).to be_valid
+    end 
+    
+  end
 end
+
