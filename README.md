@@ -1,25 +1,20 @@
-# README
+## Shear Elegance
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the api for the shear elegance clientside app. The api features
 
-Things you may want to cover:
+1. Authorization/Authentication.
+2. Relational Database Design(normalization, associations).
+3. Data Serializing
+4. Testing
+5. API versioning
 
-* Ruby version
+## Technologies
 
-* System dependencies
+1.  React
+2.  Rails Api
 
-* Configuration
+## Illustration/GIFS.
 
-* Database creation
+## Authors
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# HairStudio-CRM2-Backend
+By La Fountain
