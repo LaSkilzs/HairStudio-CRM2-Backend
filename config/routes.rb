@@ -15,6 +15,9 @@ Rails.application.routes.draw do
     resources :services
     resources :stylist_infos
     resources :users
+
+    post '/login', to: 'auth#login'
+    get '/profile', to: 'auth#profile'
   end
  end
 end

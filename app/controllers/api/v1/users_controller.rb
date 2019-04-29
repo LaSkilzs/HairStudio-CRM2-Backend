@@ -6,8 +6,10 @@ class Api::V1::UsersController < ApplicationController
 
   def create 
     user = User.create(user_params)
+    payload = {user_id: user.id}
+    token = JWT.encode(payload, ENV['SECRET'])
     if user.save
-      render json: user
+      render json: {user: user, jwt: token}
     else
       render json: {errors: user.errors.full_messages}
     end
