@@ -14,7 +14,7 @@ This is the api for the shear elegance clientside app. The api features
 2.  Rails Api
 
 ## Illustration/GIFS.
-[![Shear Elegance Demo](https://youtu.be/U1EP9xFUD6o)]("https://www.youtube.com/watch?v=Ld7kXqiSvJo&t=6s")
+[![Shear Elegance Demo](http://img.youtube.com/vi/Ld7kXqiSvJo/0.jpg)](http://www.youtube.com/watch?v=Ld7kXqiSvJo "hairsalonapp")
 
 ## Authors
 
