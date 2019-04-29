@@ -18,6 +18,8 @@ hair salon app click image for demo
 
 [![Shear Elegance Demo](http://img.youtube.com/vi/Ld7kXqiSvJo/0.jpg)](http://www.youtube.com/watch?v=Ld7kXqiSvJo "hairsalonapp")
 
+[![/Users/lafountain/Desktop/Portfolio Projects/Shear Elegance/hairstudio-app/shear_elegance.png](http://img.youtube.com/vi/Ld7kXqiSvJo/0.jpg)](http://www.youtube.com/watch?v=Ld7kXqiSvJo "hairsalonapp")
+
 ## Authors
 
 By La Fountain
